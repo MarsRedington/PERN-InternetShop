@@ -9,9 +9,6 @@ const router = require('./routes/index')
 const errorHandler = require('./middleware/ErrorHandlingMiddleware')
 
 
-// const config = require('config')
-// const PORT = config.get('PORT') || 5000
-
 require('dotenv').config()
 const PORT = process.env.PORT || 5000
 
