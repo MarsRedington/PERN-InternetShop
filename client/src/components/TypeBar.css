@@ -1,0 +1,10 @@
+.listGroupItemType{
+    margin-bottom: 5px;
+    color:#102770;
+    text-align: center;
+}
+
+.listGroupItemType:hover{
+    background-color:#31323f;
+    color:#dce1f0;
+}

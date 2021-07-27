@@ -1,0 +1,18 @@
+.brandBarItem{
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    background-color:#424552;
+}
+    
+
+.brandBarItem:hover{
+    background-color:#31323f;
+    color:#dce1f0;
+}
+
+.brandbar{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}

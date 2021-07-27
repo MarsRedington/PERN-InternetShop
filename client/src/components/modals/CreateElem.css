@@ -1,0 +1,128 @@
+.main_admin{
+    width: 80%;
+    margin: auto;
+    
+}
+.main_admin h2{
+    margin: 10px auto;
+    text-align: center;
+}
+
+.formBrand{
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.formBrand h3{
+    display: block;
+}
+
+.formBrand form{
+    min-width: 85%;
+    display: flex;
+    justify-content: space-between;
+}
+.inputElem {
+    padding: 13px 20px;
+    height: 48px;
+    width: 80%;
+    font-weight: 500;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.5px;
+    outline: none;
+    color: #c4c3ca;
+    background-color: #1f2029;
+    border: none;
+    -webkit-transition: all 200ms linear;
+    transition: all 200ms linear;
+    box-shadow: 0 4px 8px 0 rgba(21,21,21,.2);
+    display: block;
+    margin: auto;
+  }
+  .btnElem{  
+    border-radius: 4px;
+    height: 44px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    -webkit-transition : all 200ms linear;
+    transition: all 200ms linear;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    -ms-justify-content: center;
+    justify-content: center;
+    -ms-flex-pack: center;
+    text-align: center;
+    border: none;
+    background-color: #ffeba7;
+    color: #102770;
+    box-shadow: 0 8px 24px 0 rgba(255,235,167,.2);
+    margin-left: 20px;
+  }
+
+  .btnElem:hover{  
+    background-color: #102770;
+    color: #ffeba7;
+    box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
+  }
+
+  .selectForm{
+      color: #c4c3ca;
+      background-color: #1f2029;
+      border: none;
+      height: 48px;
+      width: 80%;
+      display: block;
+      margin: auto;
+  }
+
+  .formElem{
+      padding:30px; 
+  }
+  .wrapper{
+      display: flex;
+      justify-content: space-around;
+
+  }
+  .wrapper_col{
+      width: 40%;
+      margin: auto;
+  }
+  .wrapper_col p{
+      text-align: center;
+      margin-top: 15px;
+  }
+  .imgDevice{
+        display: block;
+        width: 200px;
+        height: 300px;
+        border:1px solid black;
+        margin: auto;
+  }
+  .colNewProp{
+      width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin: 25px auto;
+  }
+  .colNewProp input{
+      width: 40%;
+  }
+
+  .deviceAdd{
+      margin-top: 50px;
+  }
+  .d{
+      display: block;
+  }

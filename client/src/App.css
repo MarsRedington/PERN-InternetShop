@@ -1,0 +1,12 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	line-height: 1.7;
+	color: #c4c3ca;
+	overflow-x: hidden;
+    background-color: #424552;
+}
+main{
+	min-height: calc(100vh - 120px - 100px - 55px);
+}

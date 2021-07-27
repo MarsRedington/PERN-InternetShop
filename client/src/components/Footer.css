@@ -1,0 +1,12 @@
+.mainFooter{
+    height: 100px;
+    background-color:#31323f;
+    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/pat.svg');
+    background-position: bottom center;
+    background-size: 150%;
+    margin-top: 20px;
+    text-align: center;
+}
+.mainFooter p{
+    padding-top: 20px;
+}
